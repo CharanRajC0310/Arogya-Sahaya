@@ -1,0 +1,6 @@
+com.arogya.sahaya.test.app-jetified-tracing-1.2.0-0 C:\Users\s\.gradle\caches\8.10.2\transforms\42a6172c01042ab8877154a1dad4918f\transformed\jetified-tracing-1.2.0\res
+com.arogya.sahaya.test.app-jetified-core-1.6.1-1 C:\Users\s\.gradle\caches\8.10.2\transforms\502f987dd4673fed82fbeeba483d142c\transformed\jetified-core-1.6.1\res
+com.arogya.sahaya.test.app-androidTest-2 C:\Users\s\Desktop\Arogya_Sahaya\app\build\generated\res\resValues\androidTest\debug
+com.arogya.sahaya.test.app-mergeDebugAndroidTestResources-3 C:\Users\s\Desktop\Arogya_Sahaya\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.arogya.sahaya.test.app-mergeDebugAndroidTestResources-4 C:\Users\s\Desktop\Arogya_Sahaya\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.arogya.sahaya.test.app-debugAndroidTest-5 C:\Users\s\Desktop\Arogya_Sahaya\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

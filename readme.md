@@ -24,15 +24,6 @@ In many rural and semi-urban areas, tracking individual or family health metrics
 
 ---
 
-## 🩺 Health Check-In
-Routine health status monitoring using color indicators:
-
-- 🟢 Green – Healthy
-- 🟡 Yellow – Mild Symptoms
-- 🔴 Red – Requires Doctor Attention
-
----
-
 ## 📋 Symptom & Vitals Log
 - Record health issues such as:
   - Fever
@@ -60,7 +51,7 @@ Routine health status monitoring using color indicators:
 | **Language** | Kotlin |
 | **UI Framework** | Jetpack Compose |
 | **Database** | Room Database |
-| **Camera Integration** | CameraX |
+| **Backend** | Firebase |
 | **Architecture** | MVVM Architecture |
 
 ---
